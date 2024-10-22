@@ -1,0 +1,7 @@
+*.env
+*.json
+*.yaml
+*.yml
+*.txt
+*.md
+*.csv
